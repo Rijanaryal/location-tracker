@@ -57,5 +57,12 @@ router.route("/map").get((req, res) => {
     })
 })
 
+// ## Installation
+// 1. **Clone the repository**:```bash
+// git clone https://github.com/madhanmaaz/live-location-tracker.git
+// cd live-location-tracker```
+// npm install
+// npm start
+// admin, admin
 
 module.exports = router
